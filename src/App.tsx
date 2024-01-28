@@ -5,9 +5,9 @@ import TodoComponent from "./components/Todo";
 function App() {
   return (
     <>
-     {/* <TodoComponent /> */}
-      {/* <Project /> */}
-      <Products/>
+      <TodoComponent />
+      <Project />
+      <Products />
     </>
   );
 }
